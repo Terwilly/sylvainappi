@@ -1,0 +1,24 @@
+[
+  {
+    "nom": "ee",
+    "prenom": "eee",
+    "email": "anmwe@gmail.com",
+    "password": "1234",
+    "id": 1
+  },
+  {
+    "nom": "eee",
+    "prenom": "rrrr",
+    "email": "sylvainterwilly@gmail.com",
+    "password": "willy",
+    "id": 2
+  },
+  {
+    "nom": "terwi",
+    "prenom": "syl",
+    "email": "syl@gmail.com",
+    "password": "vision",
+    "confirmPassword": "vision",
+    "id": 6
+  }
+]

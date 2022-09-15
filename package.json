@@ -1,0 +1,17 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "Simple json api database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server, heroku, etc"
+  ],
+  "author": " Sylvain Terwilly",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
